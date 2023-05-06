@@ -1,6 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="41px" height="39px" viewBox="0 0 41 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M11.6322341,0.621339181 C-0.98156407,7.0360394 -3.15905398,23.3580119 4.23659007,33.149238 C11.6322341,42.9404641 19.5139375,38.037723 23.8409829,33.149238 C26.9029455,29.3705858 41,42.6044308 41,33.149238 C41,23.6940452 37.9646378,13.4507395 28.1680282,7.0360394 C18.3714187,0.621339181 14.9894036,-1.08593688 11.6322341,0.621339181 Z" id="Path" fill="#0B3765" fill-rule="nonzero"></path>
-    </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="150.000000pt" height="150.000000pt" viewBox="0 0 150.000000 150.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,150.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M208 1486 c-79 -28 -134 -74 -169 -139 l-34 -62 0 -535 0 -535 29
+-58 c37 -72 77 -109 151 -136 54 -20 72 -21 565 -21 476 0 513 1 560 19 73 28
+125 74 157 139 l28 57 3 514 c3 579 3 583 -67 662 -21 25 -63 58 -92 74 l-54
+30 -520 2 c-414 2 -528 0 -557 -11z"/>
+</g>
 </svg>
